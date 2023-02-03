@@ -1,0 +1,2664 @@
+2022-12-02 13:22:39.9415 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": null,
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": null
+} 
+2022-12-02 13:22:55.1701 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:22:55.1701 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:22:55.9382 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:22:55.9382 INFO CRM request ID: 766520c7e927ffddb154e11cc0205475 
+2022-12-02 13:23:38.3524 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": null,
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO"
+} 
+2022-12-02 13:23:52.6171 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:23:52.6171 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:23:53.0603 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:23:53.0603 INFO CRM request ID: ad5fac71dc9873c21dd755f785fb9925 
+2022-12-02 13:24:24.5276 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": null,
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO"
+} 
+2022-12-02 13:24:26.7457 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:24:26.7457 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:40:26.7032 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": null,
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO"
+} 
+2022-12-02 13:40:31.4480 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:40:31.4480 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:40:32.0099 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:40:32.0099 INFO CRM request ID: bb8d0da2dd20a729cabf3f0405382d4a 
+2022-12-02 13:48:20.0814 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:48:25.7036 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Email Id"
+      }
+    }
+  }
+} 
+2022-12-02 13:48:51.7147 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:49:01.6310 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:49:01.6310 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:49:02.3179 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:49:02.3179 INFO CRM request ID: 82df4f95660bfd14576b70b2cd38cca1 
+2022-12-02 13:49:02.3333 INFO {
+  "clientUserId": "1692111",
+  "clientOrderId": "53708544",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": null,
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 13:49:02.3333 DEBUG d12  
+2022-12-02 13:49:16.0617 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:49:16.7220 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Email Id"
+      }
+    }
+  }
+} 
+2022-12-02 13:49:37.4629 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:49:38.1459 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Email Id"
+      }
+    }
+  }
+} 
+2022-12-02 13:49:54.5840 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:50:25.2569 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": null
+} 
+2022-12-02 13:50:29.1248 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Address Type"
+      }
+    }
+  }
+} 
+2022-12-02 13:50:51.5889 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "fsfd"
+} 
+2022-12-02 13:50:53.6185 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Address Type"
+      }
+    }
+  }
+} 
+2022-12-02 13:51:10.3617 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 13:51:14.8776 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Invalid Address Type"
+      }
+    }
+  }
+} 
+2022-12-02 13:51:31.9422 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 13:52:26.8050 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 13:52:32.3420 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:52:32.3420 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:52:32.8940 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:52:32.8940 INFO CRM request ID: 6e7c96ce4478249e65a4563cfe74ac8d 
+2022-12-02 13:52:32.8940 INFO {
+  "clientUserId": "1692111",
+  "clientOrderId": "35729841",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 13:52:32.8940 DEBUG d12  
+2022-12-02 13:52:41.8763 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 13:52:46.0866 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 13:52:46.0866 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 13:52:46.6211 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 13:52:46.6211 INFO CRM request ID: e92afb596660f9ec99a22fdbfc52448f 
+2022-12-02 15:09:40.2675 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:09:46.3658 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:09:46.3658 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:09:47.2240 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:09:47.2240 INFO CRM request ID: 54b8d023a93513ea38be96dc7e326cef 
+2022-12-02 15:09:49.9010 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:09:54.7510 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "44535010",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:12:10.1305 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:12:14.1355 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:12:14.1355 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:12:14.7862 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:12:14.7862 INFO CRM request ID: 336e8e713ec78813ceb83ca2afe32f31 
+2022-12-02 15:12:17.6672 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:13:01.0685 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:13:04.4152 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:13:04.4152 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:13:05.1522 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:13:05.1522 INFO CRM request ID: 0817b5334c977d2325be7a49e013c5f9 
+2022-12-02 15:13:07.2138 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:13:10.3435 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "86208154",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:16:42.8952 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:16:46.5077 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:16:46.5077 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:16:47.3452 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:16:47.3452 INFO CRM request ID: 5a724d149677470334cd8faed1adc557 
+2022-12-02 15:16:56.2422 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:16:56.2422 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "53421969",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:17:31.9295 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:17:36.3610 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:17:36.3610 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:17:37.2438 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:17:37.2438 INFO CRM request ID: 2c36bbcb3e4d2f17758a6f22e59ea4f3 
+2022-12-02 15:17:38.1531 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:17:38.1531 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "67617662",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:25:23.6355 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:25:27.4249 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:25:27.4249 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:25:27.9552 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:25:27.9552 INFO CRM request ID: c5902187264fad26af6b0dd9618e0e1e 
+2022-12-02 15:25:28.9480 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:25:28.9707 ERROR System.ArgumentException: The 'Content-Type' header must be modified using the appropriate property or method.
+Parameter name: name
+   at System.Net.WebHeaderCollection.ThrowOnRestrictedHeader(String headerName)
+   at System.Net.WebHeaderCollection.Add(String name, String value)
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 73 
+2022-12-02 15:25:28.9707 DEBUG d12 The 'Content-Type' header must be modified using the appropriate property or method.
+Parameter name: name 
+2022-12-02 15:25:28.9868 ERROR System.Runtime.Serialization.SerializationException: There was an error deserializing the object of type purinawrapper.apis.Models.RootResponse. Encountered unexpected character 'T'. ---> System.Xml.XmlException: Encountered unexpected character 'T'.
+   at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadAttributes()
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadNonExistentElementName(StringHandleConstStringType elementName)
+   at System.Runtime.Serialization.Json.XmlJsonReader.Read()
+   at System.Xml.XmlBaseReader.IsStartElement()
+   at System.Xml.XmlBaseReader.IsStartElement(XmlDictionaryString localName, XmlDictionaryString namespaceUri)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName)
+   at System.Runtime.Serialization.XmlObjectSerializer.InternalReadObject(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   --- End of inner exception stack trace ---
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 322 
+2022-12-02 15:25:33.3619 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:25:36.5962 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:25:36.5962 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:25:37.0463 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:25:37.0463 INFO CRM request ID: 2f9bf8bd7afe49d3d11bc656e64fc642 
+2022-12-02 15:25:38.7193 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:26:24.6377 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:26:29.9257 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:26:29.9257 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:26:30.6756 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:26:30.6756 INFO CRM request ID: 5d38a773cb0b86e870b628613f8d2f0e 
+2022-12-02 15:26:32.0496 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:26:52.9166 ERROR System.ArgumentException: The 'Content-Type' header must be modified using the appropriate property or method.
+Parameter name: name
+   at System.Net.WebHeaderCollection.ThrowOnRestrictedHeader(String headerName)
+   at System.Net.WebHeaderCollection.Add(String name, String value)
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 73 
+2022-12-02 15:26:52.9166 DEBUG d12 The 'Content-Type' header must be modified using the appropriate property or method.
+Parameter name: name 
+2022-12-02 15:26:52.9306 ERROR System.Runtime.Serialization.SerializationException: There was an error deserializing the object of type purinawrapper.apis.Models.RootResponse. Encountered unexpected character 'T'. ---> System.Xml.XmlException: Encountered unexpected character 'T'.
+   at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadAttributes()
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadNonExistentElementName(StringHandleConstStringType elementName)
+   at System.Runtime.Serialization.Json.XmlJsonReader.Read()
+   at System.Xml.XmlBaseReader.IsStartElement()
+   at System.Xml.XmlBaseReader.IsStartElement(XmlDictionaryString localName, XmlDictionaryString namespaceUri)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName)
+   at System.Runtime.Serialization.XmlObjectSerializer.InternalReadObject(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   --- End of inner exception stack trace ---
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 322 
+2022-12-02 15:26:55.6826 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:27:01.3878 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:27:01.3878 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:27:01.9514 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:27:01.9514 INFO CRM request ID: a3583c3c3320963963ac6445d3f746ad 
+2022-12-02 15:27:44.9250 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:27:48.8117 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:27:48.8117 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:27:49.5905 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:27:49.5905 INFO CRM request ID: e08a26325a05cc8deae416325740b333 
+2022-12-02 15:27:50.9590 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:27:53.7155 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "68210927",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:29:15.1103 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:29:21.2458 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:29:21.2458 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:29:22.0351 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:29:22.0351 INFO CRM request ID: 26b2d5c0c14547a43f056199bdcc20cc 
+2022-12-02 15:29:23.9862 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:29:26.2667 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "16800021",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:30:06.0727 ERROR System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 93 
+2022-12-02 15:30:06.0727 DEBUG d12 The remote server returned an error: (400) Bad Request. 
+2022-12-02 15:30:06.1048 ERROR System.Runtime.Serialization.SerializationException: There was an error deserializing the object of type purinawrapper.apis.Models.RootResponse. Encountered unexpected character 'T'. ---> System.Xml.XmlException: Encountered unexpected character 'T'.
+   at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadAttributes()
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadNonExistentElementName(StringHandleConstStringType elementName)
+   at System.Runtime.Serialization.Json.XmlJsonReader.Read()
+   at System.Xml.XmlBaseReader.IsStartElement()
+   at System.Xml.XmlBaseReader.IsStartElement(XmlDictionaryString localName, XmlDictionaryString namespaceUri)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName)
+   at System.Runtime.Serialization.XmlObjectSerializer.InternalReadObject(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   --- End of inner exception stack trace ---
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 322 
+2022-12-02 15:30:17.1746 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:30:29.0734 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:30:29.0734 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:30:29.6624 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:30:29.6624 INFO CRM request ID: f12087dd0c43c83adcbd44338de7993f 
+2022-12-02 15:30:40.5089 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:30:42.3723 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "79814038",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "3193",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:30:58.0046 INFO {"AugeoOrderId":73575,"AugeoUserId":86781,"ClientCustomFields":{}} 
+2022-12-02 15:30:58.0046 DEBUG d12 {"AugeoOrderId":73575,"AugeoUserId":86781,"ClientCustomFields":{}} 
+2022-12-02 15:31:08.5332 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:31:13.0491 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:31:13.0491 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:31:13.7072 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:31:13.7072 INFO CRM request ID: 316dc10d39240d4750b357c2079f5bd4 
+2022-12-02 15:31:17.1045 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:31:20.4902 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "12527166",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:37:24.5047 ERROR System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 93 
+2022-12-02 15:44:04.6170 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:44:08.1726 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:44:08.1726 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:44:09.0765 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:44:09.0765 INFO CRM request ID: a9e95e6a9fe6b2c0cf56dba76f4cde2a 
+2022-12-02 15:44:10.8787 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:44:11.4087 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "28050937",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 15:48:12.8287 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 15:48:16.8095 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 15:48:16.8095 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 15:48:17.3920 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 15:48:17.3920 INFO CRM request ID: 0e4d14e73851b9e13f69b9b6abda5014 
+2022-12-02 15:48:19.4797 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 15:48:20.7220 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "55069524",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:08:10.3190 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:08:15.2004 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:08:15.2004 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:08:15.9154 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:08:15.9154 INFO CRM request ID: 69e08ad44f11aa0e1670e9b873399adc 
+2022-12-02 16:08:19.4057 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:08:20.0145 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "27852201",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:09:10.3494 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:09:14.8454 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:09:14.8454 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:09:15.5436 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:09:15.5436 INFO CRM request ID: 8ac8032b1d17ae2f0147579ccd03be5e 
+2022-12-02 16:09:17.7559 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:09:19.9379 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "50996371",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:09:55.2187 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:10:00.3084 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:10:00.3084 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:10:01.0045 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:10:01.0045 INFO CRM request ID: 082db2206fd3ee82abf15571999f7260 
+2022-12-02 16:10:02.9236 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:10:03.7048 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "85795953",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:10:10.0775 ERROR System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 93 
+2022-12-02 16:10:21.7653 DEBUG d12 {"ErrorCode":"AUG003","ErrorDetails":"Product not found in this catalog with ID 1006.","ErrorMessage":"Product not found","Status":"ERROR"} 
+2022-12-02 16:12:09.7775 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:12:23.0466 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:12:23.0466 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:12:23.6792 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:12:23.6792 INFO CRM request ID: d46975a83487710006bb37e5c7b5a553 
+2022-12-02 16:12:25.6203 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:12:26.3473 DEBUG {
+  "clientUserId": "1692111",
+  "clientOrderId": "15019999",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "1006",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:12:38.4029 ERROR System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at purinawrapper.apis.Models.AugeoRewardsIssue.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\AugeoRewardsIssue.cs:line 93 
+2022-12-02 16:12:38.4029 DEBUG d12 {"ErrorCode":"AUG003","ErrorDetails":"Product not found in this catalog with ID 1006.","ErrorMessage":"Product not found","Status":"ERROR"} 
+2022-12-02 16:12:48.0124 INFO {
+  "id": "169211112",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:12:54.0476 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:12:54.0476 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "169211112"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:12:54.9493 INFO {
+	"response": {		
+		"status": {
+			"success": false,
+			"code": 500,
+			"message": "All requests have failed due to errors"
+		},
+		"coupon": {
+			"code": "",
+                        "series_id": "14870",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "169211112" 
+			},
+			"item_status": { 
+				"success": false, 
+				"code": 701, 
+				"message": "The customer could not be found. Please check mobile, email, external id passed" 
+			}
+		}
+	}
+} 
+2022-12-02 16:12:54.9493 INFO CRM request ID: b07af4cc26f8f10e6e85788e6c462ee2 
+2022-12-02 16:13:11.2851 INFO {
+  "response": {
+    "status": {
+      "success": null,
+      "code": 0,
+      "message": null
+    },
+    "coupon": {
+      "code": null,
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": null,
+        "code": 0,
+        "message": "Object reference not set to an instance of an object."
+      }
+    }
+  }
+} 
+2022-12-02 16:13:11.2851 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 278 
+2022-12-02 16:14:12.1348 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:14:18.6761 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:14:18.6761 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:14:19.3878 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:14:19.3878 INFO CRM request ID: c0fa232ef181228f5f7674c01d128519 
+2022-12-02 16:14:50.8194 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:14:54.0350 DEBUG {
+  "clientUserId": "AS1692111",
+  "clientOrderId": "16387285",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "3193",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:29:41.3311 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:29:47.1898 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:29:47.1898 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:29:47.8033 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:29:47.8033 INFO CRM request ID: e397bd0be37e0f2b61bede54eceac5ae 
+2022-12-02 16:30:19.7311 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:30:26.1052 DEBUG {
+  "clientUserId": "1SA692111",
+  "clientOrderId": "56742092",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "qwevikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "3193",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:30:30.2214 INFO {"AugeoOrderId":73581,"AugeoUserId":86786,"ClientCustomFields":{}} 
+2022-12-02 16:30:34.5461 DEBUG d12 {"AugeoOrderId":73581,"AugeoUserId":86786,"ClientCustomFields":{}} 
+2022-12-02 16:31:13.9739 INFO {
+  "response": {
+    "status": {
+      "success": "true",
+      "code": 200,
+      "message": "SUCCESS"
+    },
+    "coupon": {
+      "code": "1006",
+      "description": "dog_clothes",
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": "true",
+        "code": 700,
+        "message": "User 86786's Order Id 73581"
+      }
+    }
+  }
+} 
+2022-12-02 16:32:49.4219 INFO {
+  "id": "1692111",
+  "intouch_series_id": "14870",
+  "fname": "vikas",
+  "lname": "vikas",
+  "email_address": "vikas+verma@gmail.com",
+  "streetAddress": "12244",
+  "City": "asd",
+  "StateProvince": "232",
+  "PostalCode": "21431",
+  "Country": "244",
+  "orderType": "Digital",
+  "Vendor": "AUGEO",
+  "Address_Type": "Shipping"
+} 
+2022-12-02 16:32:57.5388 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-12-02 16:32:57.5388 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-12-02 16:33:02.9875 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-12-02 16:33:02.9875 INFO CRM request ID: bc53a0bb9742258a4dc3545743d780a5 
+2022-12-02 16:33:38.1417 INFO https://aws-api.uat.augeocms.com/r/v1/orders 
+2022-12-02 16:33:40.0817 DEBUG {
+  "clientUserId": "1692312111",
+  "clientOrderId": "27554375",
+  "firstName": "vikas",
+  "lastName": "vikas",
+  "email": "vikas+verma@gmail.com",
+  "Address": [
+    {
+      "type": "Shipping",
+      "line1": "12244",
+      "line2": "",
+      "city": "asd",
+      "stateISOCode": "232",
+      "countryISOCode": "US",
+      "zip": "21431"
+    }
+  ],
+  "orderItems": [
+    {
+      "productId": "3193",
+      "qty": "1"
+    }
+  ]
+} 
+2022-12-02 16:33:44.5720 INFO {"AugeoOrderId":73582,"AugeoUserId":86787,"ClientCustomFields":{}} 
+2022-12-02 16:33:44.5720 DEBUG d12 {"AugeoOrderId":73582,"AugeoUserId":86787,"ClientCustomFields":{}} 
+2022-12-02 16:33:44.5835 INFO {
+  "response": {
+    "status": {
+      "success": "true",
+      "code": 200,
+      "message": "SUCCESS"
+    },
+    "coupon": {
+      "code": "1006",
+      "description": "dog_clothes",
+      "valid_till": null,
+      "series_info": null,
+      "customer": null,
+      "item_status": {
+        "success": "true",
+        "code": 700,
+        "message": "User 86787's Order Id 73582"
+      }
+    }
+  }
+} 

@@ -1,0 +1,131 @@
+2022-11-26 11:32:20.7001 INFO https://apac.api.capillarytech.com/v1.1/coupon/issue?format=json 
+2022-11-26 11:32:20.7041 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-26 11:32:21.2147 INFO {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-26 11:32:21.2147 INFO CRM request ID: 6f791c54e0a3adf083265831be9ecf5b 
+2022-11-26 11:32:31.3928 INFO https://tgw.stage.arsecure.com/AR/v1/OrderProcessing/DigitalOrderCreate 
+2022-11-26 11:32:31.3928 DEBUG {
+  "Contract": {
+    "ShipToCustomer": {
+      "Customer": {
+        "CustomerId": "1692111",
+        "Name": {
+          "First": "vikas",
+          "Last": "vikas"
+        }
+      },
+      "Email": [
+        {
+          "Type": "Primary",
+          "Address": null
+        }
+      ]
+    },
+    "LanguageCode": "eng"
+  },
+  "Order": {
+    "OrderId": "75075028",
+    "OrderDate": "2022-11-26",
+    "OrderTime": "11:32:31-4:00",
+    "Overrides": {
+      "Price": false,
+      "Tax": false
+    },
+    "OrderedItem": [
+      {
+        "ProductId": "1006",
+        "Sequence": 1,
+        "Name": "dog_clothes",
+        "Quantity": 1,
+        "Price": 0
+      }
+    ]
+  }
+} 
+2022-11-26 11:32:53.4695 ERROR System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 208.49.58.121:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at purinawrapper.apis.Models.CallAltaRewardApi.AltaRewardAPI(String api, String postParameters, String token) in C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Models\CallAltaRewardApi.cs:line 55 
+2022-11-26 11:33:28.9765 INFO https://tgw.stage.arsecure.com/AR/v1/OrderProcessing/DigitalOrderCreate 
+2022-11-26 11:33:28.9765 DEBUG {
+  "Contract": {
+    "ShipToCustomer": {
+      "Customer": {
+        "CustomerId": "1692111",
+        "Name": {
+          "First": "vikas",
+          "Last": "vikas"
+        }
+      },
+      "Email": [
+        {
+          "Type": "Primary",
+          "Address": null
+        }
+      ]
+    },
+    "LanguageCode": "eng"
+  },
+  "Order": {
+    "OrderId": "91512198",
+    "OrderDate": "2022-11-26",
+    "OrderTime": "11:33:10-4:00",
+    "Overrides": {
+      "Price": false,
+      "Tax": false
+    },
+    "OrderedItem": [
+      {
+        "ProductId": "1006",
+        "Sequence": 1,
+        "Name": "dog_clothes",
+        "Quantity": 1,
+        "Price": 0
+      }
+    ]
+  }
+} 

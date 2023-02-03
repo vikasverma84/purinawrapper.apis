@@ -1,0 +1,204 @@
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.dll.config
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.pdb
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.exe
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.exe.config
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.rsp
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.exe
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.exe.config
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.rsp
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.AppContext.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Collections.Immutable.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Console.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Globalization.Calendars.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.Compression.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.FileSystem.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Net.Http.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Net.Sockets.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Reflection.Metadata.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.ValueTuple.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XPath.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.exe
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.exe.config
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.rsp
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\VBCSCompiler.exe
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\VBCSCompiler.exe.config
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Antlr3.Runtime.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.Web.Infrastructure.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Newtonsoft.Json.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\NLog.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\RestSharp.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Buffers.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Memory.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Net.Http.Formatting.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Numerics.Vectors.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Text.Encodings.Web.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Text.Json.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Threading.Tasks.Extensions.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.ValueTuple.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Helpers.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.WebHost.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Mvc.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Optimization.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Razor.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Deployment.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Razor.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\WebGrease.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\RestSharp.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Buffers.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Memory.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Numerics.Vectors.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Text.Encodings.Web.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Text.Json.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Threading.Tasks.Extensions.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.ValueTuple.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Newtonsoft.Json.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Net.Http.Formatting.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Helpers.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.WebHost.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Mvc.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Optimization.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Razor.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Deployment.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Razor.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Antlr3.Runtime.pdb
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.CoreCompileInputs.cache
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.CopyComplete
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.dll
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.pdb
+D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.AssemblyReference.cache
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.dll.config
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\purinawrapper.apis.pdb
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.exe
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.exe.config
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csc.rsp
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.exe
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.exe.config
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\csi.rsp
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.AppContext.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Collections.Immutable.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Console.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.Compression.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.FileSystem.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Net.Http.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Net.Sockets.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.ValueTuple.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XPath.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.exe
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.exe.config
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\vbc.rsp
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\VBCSCompiler.exe
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\roslyn\VBCSCompiler.exe.config
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Antlr3.Runtime.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.Web.Infrastructure.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Newtonsoft.Json.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\NLog.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Buffers.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Memory.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Net.Http.Formatting.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Numerics.Vectors.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Threading.Tasks.Extensions.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.ValueTuple.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Helpers.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.WebHost.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Mvc.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Optimization.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Razor.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Deployment.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Razor.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\WebGrease.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Buffers.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Memory.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Numerics.Vectors.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Threading.Tasks.Extensions.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.ValueTuple.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Newtonsoft.Json.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Net.Http.Formatting.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Helpers.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Http.WebHost.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Mvc.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Optimization.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.Razor.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Deployment.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\System.Web.WebPages.Razor.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Antlr3.Runtime.pdb
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.CoreCompileInputs.cache
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.CopyComplete
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.dll
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.pdb
+C:\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\obj\Debug\purinawrapper.apis.csproj.AssemblyReference.cache

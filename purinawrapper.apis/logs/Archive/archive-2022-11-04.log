@@ -1,0 +1,2322 @@
+2022-11-04 10:04:27.8534 INFO vikas 
+2022-11-04 10:04:27.8534 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 10:04:29.2249 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 69 
+2022-11-04 10:04:29.3519 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 76 
+2022-11-04 10:05:35.3551 INFO vikas 
+2022-11-04 10:05:35.3551 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 10:05:37.0057 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 69 
+2022-11-04 10:05:37.1083 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 76 
+2022-11-04 12:17:43.0609 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:17:46.2726 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:17:48.5554 ERROR System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at purinawrapper.apis.Controllers.RewardsController.IntouchMakeRequest(String api, String postParameters, String Method, String capId, String password) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 304 
+2022-11-04 12:18:00.0948 INFO vikas 
+2022-11-04 12:18:00.0988 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:18:02.5001 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 12:18:02.6459 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 77 
+2022-11-04 12:18:02.6459 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "124",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 12:18:06.1182 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:18:18.9664 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:20:14.6137 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:20:21.3617 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "124"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:20:22.0588 DEBUG {
+	"response": {		
+		"status": {
+			"success": false,
+			"code": 500,
+			"message": "All requests have failed due to errors"
+		},
+		"coupon": {
+			"code": "",
+                        "series_id": "14870",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "124" 
+			},
+			"item_status": { 
+				"success": false, 
+				"code": 701, 
+				"message": "The customer could not be found. Please check mobile, email, external id passed" 
+			}
+		}
+	}
+} 
+2022-11-04 12:20:22.0588 INFO CRM request ID: 54f388d8b247fa3fcd7ea1c453c83d84 
+2022-11-04 12:20:32.1203 INFO vikas 
+2022-11-04 12:20:32.1203 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:20:33.9221 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 12:20:34.0816 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 77 
+2022-11-04 12:20:34.1036 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "124",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 12:20:49.5978 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:20:52.1138 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:25:56.9521 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:25:58.1521 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:25:59.1857 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:25:59.1857 INFO CRM request ID: fec19e29f7dfcb4fa8eea9f3dd5b9819 
+2022-11-04 12:27:11.3424 INFO vikas 
+2022-11-04 12:27:11.3424 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:27:13.2156 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 12:27:13.2975 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 77 
+2022-11-04 12:27:13.3085 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "1692111",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 12:31:36.3678 INFO vikas 
+2022-11-04 12:31:36.3678 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:31:38.1008 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:31:38.1876 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 75 
+2022-11-04 12:31:38.1996 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "1692111",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 12:31:42.6167 INFO vikas 
+2022-11-04 12:31:42.6167 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:31:43.7899 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:31:43.8798 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 75 
+2022-11-04 12:31:43.8798 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "1692111",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 12:32:06.6702 INFO vikas 
+2022-11-04 12:32:06.6702 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:32:12.7718 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:32:15.1370 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 75 
+2022-11-04 12:32:52.8872 INFO vikas 
+2022-11-04 12:32:52.8995 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:32:55.9641 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:32:55.9871 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": null,
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:32:55.9871 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": null,
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:32:56.6411 DEBUG {
+	"response": {		
+		"status": {
+			"success": false,
+			"code": 500,
+			"message": "All requests have failed due to errors"
+		},
+		"coupon": {
+			"code": "",
+                        "series_id": "",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": false, 
+				"code": 707, 
+				"message": "Coupon Series ID is invalid" 
+			}
+		}
+	}
+} 
+2022-11-04 12:32:56.6411 INFO CRM request ID: 197bcab91c24c0f0e4002b564ff050d5 
+2022-11-04 12:33:58.0444 INFO vikas 
+2022-11-04 12:33:58.0514 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:34:01.1276 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:34:01.1276 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:34:02.5765 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:35:41.6044 INFO vikas 
+2022-11-04 12:35:41.6140 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:35:43.2899 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:35:43.2899 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:35:44.0816 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:35:44.7772 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:35:44.7772 INFO CRM request ID: 55a5e6d936e13c5faceffea381805903 
+2022-11-04 12:35:44.8122 DEBUG {
+  "Contract": {
+    "ShipToCustomer": {
+      "Customer": {
+        "CustomerId": "1692111"
+      }
+    },
+    "LanguageCode": "eng"
+  },
+  "Order": {
+    "OrderId": "93173238",
+    "OrderDate": "2022-11-04",
+    "OrderTime": "12:35:44-4:00",
+    "Overrides": {
+      "Price": false,
+      "Tax": false
+    },
+    "OrderedItem": [
+      {
+        "ProductId": "1006",
+        "Sequence": 1,
+        "Name": "234",
+        "Quantity": 1,
+        "Price": 0
+      }
+    ]
+  }
+} 
+2022-11-04 12:36:07.5140 ERROR System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 208.49.58.121:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at purinawrapper.apis.Controllers.RewardsController.AltaRewardAPI(String api, String postParameters, String token) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 234 
+2022-11-04 12:36:07.5140 DEBUG d12 Unable to connect to the remote server 
+2022-11-04 12:36:07.6524 ERROR System.Runtime.Serialization.SerializationException: There was an error deserializing the object of type purinawrapper.apis.Models.RootResponse. Encountered unexpected character 'U'. ---> System.Xml.XmlException: Encountered unexpected character 'U'.
+   at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadAttributes()
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadNonExistentElementName(StringHandleConstStringType elementName)
+   at System.Runtime.Serialization.Json.XmlJsonReader.Read()
+   at System.Xml.XmlBaseReader.IsStartElement()
+   at System.Xml.XmlBaseReader.IsStartElement(XmlDictionaryString localName, XmlDictionaryString namespaceUri)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName)
+   at System.Runtime.Serialization.XmlObjectSerializer.InternalReadObject(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   --- End of inner exception stack trace ---
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 108 
+2022-11-04 12:49:37.0774 INFO vikas 
+2022-11-04 12:49:37.0851 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:49:43.5615 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:49:43.5695 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:49:45.1156 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:49:45.8522 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:49:45.8522 INFO CRM request ID: 3ce3c7cc43d4519feb41d391686c78b5 
+2022-11-04 12:49:51.8988 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 370
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 12:49:51.8988 INFO CRM request ID: b87fdb80633b707c4ae97952f94e9696 
+2022-11-04 12:51:12.8347 INFO vikas 
+2022-11-04 12:51:12.8487 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:51:15.4559 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:51:15.4719 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:51:17.1273 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:51:17.7426 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:51:17.7426 INFO CRM request ID: 7ab8ead3232ae02057e9184149ac26d1 
+2022-11-04 12:51:21.0413 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 370
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 12:51:21.0413 INFO CRM request ID: 7416490671f082ad6afb2260c62f12b5 
+2022-11-04 12:53:12.2313 INFO vikas 
+2022-11-04 12:53:12.2416 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:53:14.2786 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:53:14.2846 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:53:14.9848 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:53:15.7241 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:53:15.7241 INFO CRM request ID: 8dace42e434b205842beae6eb6f94f28 
+2022-11-04 12:53:16.3607 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 370
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 12:53:16.3607 INFO CRM request ID: d13d29e4e96534f914376c80141c84cb 
+2022-11-04 12:58:55.8500 INFO vikas 
+2022-11-04 12:58:55.8500 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 12:58:58.6381 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 68 
+2022-11-04 12:58:58.6521 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:58:58.6521 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 12:58:59.4566 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 12:58:59.4566 INFO CRM request ID: 12c19990f1d87e35addcc01e5b2968e4 
+2022-11-04 12:59:00.0661 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 370
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 12:59:00.0661 INFO CRM request ID: 781ec1f106db5811b8507c2c2083b40d 
+2022-11-04 12:59:00.1301 DEBUG {
+  "Contract": {
+    "ShipToCustomer": {
+      "Customer": {
+        "CustomerId": "1692111",
+        "Name": null
+      }
+    },
+    "LanguageCode": "eng"
+  },
+  "Order": {
+    "OrderId": "45798333",
+    "OrderDate": "2022-11-04",
+    "OrderTime": "12:59:00-4:00",
+    "Overrides": {
+      "Price": false,
+      "Tax": false
+    },
+    "OrderedItem": [
+      {
+        "ProductId": "1006",
+        "Sequence": 1,
+        "Name": "234",
+        "Quantity": 1,
+        "Price": 0
+      }
+    ]
+  }
+} 
+2022-11-04 12:59:21.9130 ERROR System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 208.49.58.121:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at purinawrapper.apis.Controllers.RewardsController.AltaRewardAPI(String api, String postParameters, String token) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 247 
+2022-11-04 12:59:21.9130 DEBUG d12 Unable to connect to the remote server 
+2022-11-04 12:59:21.9592 ERROR System.Runtime.Serialization.SerializationException: There was an error deserializing the object of type purinawrapper.apis.Models.RootResponse. Encountered unexpected character 'U'. ---> System.Xml.XmlException: Encountered unexpected character 'U'.
+   at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadAttributes()
+   at System.Runtime.Serialization.Json.XmlJsonReader.ReadNonExistentElementName(StringHandleConstStringType elementName)
+   at System.Runtime.Serialization.Json.XmlJsonReader.Read()
+   at System.Xml.XmlBaseReader.IsStartElement()
+   at System.Xml.XmlBaseReader.IsStartElement(XmlDictionaryString localName, XmlDictionaryString namespaceUri)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName)
+   at System.Runtime.Serialization.XmlObjectSerializer.InternalReadObject(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   --- End of inner exception stack trace ---
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   at System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 121 
+2022-11-04 13:01:25.1671 INFO vikas 
+2022-11-04 13:01:25.1741 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 13:01:28.4012 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 13:01:28.4142 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:01:30.7018 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:01:31.2813 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 13:01:31.2813 INFO CRM request ID: ed7db20ddce169cd6ab9d890e3d56396 
+2022-11-04 13:01:31.7599 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 370
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 13:01:31.7599 INFO CRM request ID: d41d1a13bb2a2167f68ae7249852da0e 
+2022-11-04 13:13:11.0075 INFO vikas 
+2022-11-04 13:13:11.0075 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 13:13:30.9358 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 13:13:34.2957 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:13:34.2957 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:13:34.9665 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 13:13:34.9665 INFO CRM request ID: 3c33eef850f62ebb3138993a82c7263c 
+2022-11-04 13:19:58.7910 INFO vikas 
+2022-11-04 13:19:58.7990 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 13:20:01.7335 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 13:20:34.6198 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:20:34.6198 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:20:35.5338 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 13:20:35.5338 INFO CRM request ID: 1842dca2211f13a9b7b8898d2ed84596 
+2022-11-04 13:30:01.4834 INFO vikas 
+2022-11-04 13:30:01.4934 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 13:30:05.2673 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 13:30:05.3988 ERROR System.IO.FileNotFoundException: Could not find file 'c:\token.txt'.
+File name: 'c:\token.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 77 
+2022-11-04 13:30:05.4078 INFO {
+  "response": {
+    "status": {
+      "success": "false",
+      "code": 500,
+      "message": "FAILURE"
+    },
+    "coupon": {
+      "code": "sadasdf",
+      "description": null,
+      "valid_till": null,
+      "series_info": null,
+      "customer": {
+        "external_id": "1692111",
+        "user_id": null
+      },
+      "item_status": {
+        "success": "false",
+        "code": 600,
+        "message": "Coupon processing failed"
+      }
+    }
+  }
+} 
+2022-11-04 13:30:49.3438 INFO vikas 
+2022-11-04 13:30:49.3590 INFO https://login.microsoftonline.com/1b191c89-1809-46f1-86d3-4debfb667449/oauth2/v2.0/token 
+2022-11-04 13:30:53.2049 ERROR System.Net.Http.HttpRequestException: Request failed with status code BadRequest
+   at RestSharp.ResponseThrowExtension.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.<PostAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Post(RestClient client, RestRequest request)
+   at purinawrapper.apis.Controllers.RewardsController.RewardAdd(Request req) in D:\Capillary 2022\Solutions\US\Purina\purinawrapper.apis\purinawrapper.apis\Controllers\RewardsController.cs:line 70 
+2022-11-04 13:30:53.2049 INFO {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:30:53.2049 DEBUG {
+  "root": {
+    "coupon": [
+      {
+        "series_id": "14870",
+        "customer": {
+          "external_id": "1692111"
+        }
+      }
+    ]
+  }
+} 
+2022-11-04 13:30:53.8390 DEBUG {
+	"response": {		
+		"status": {
+			"success": true,
+			"code": 200,
+			"message": "Success"
+		},
+		"coupon": {
+			"code": "1006",
+                        "series_id": "14870",
+                        "description": "dog_clothes",
+                        "discount_code": "1006",
+                        "valid_till": "2023-01-31",
+                        "discount_type": "PERC",
+                        "discount_value": "100",
+						"discount_upto": "0",
+                        "discount_on": "BILL",
+                        "detailed_info": "dog_clothes",
+			"customer": {
+			    
+				"mobile": "", 
+				"email": "", 
+				"external_id": "1692111" 
+			},
+			"item_status": { 
+				"success": true, 
+				"code": 700, 
+				"message": "Coupon processing successful" 
+			}
+		}
+	}
+} 
+2022-11-04 13:30:53.8390 INFO CRM request ID: b70a20fe6294c9f35e5464756faf4ecc 
+2022-11-04 13:30:57.7634 DEBUG {
+    "response": {
+        "status": {
+            "success":"true",
+            "code":200,
+            "message":"Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "Qurat Ul Ain",
+                    "lastname": "",
+                    "mobile": null,
+                    "email":  null,
+                    "external_id":  "1692111" ,
+                    "lifetime_points": 400
+                                        ,
+                    "lifetime_purchases": 0,
+                    "loyalty_points": 360
+                                        ,
+                    "current_slab": "NONE"
+                                    ,
+                    "registered_on": "2019-10-15 17:15:30",
+                    "updated_on": "2022-11-04 10:28:52",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [
+                    ],
+                    "gender": null,
+                    "registered_by": "purina solutions",
+                    "registered_store": {
+                        "code": "demo.purina.solution",
+                        "name": "purina solutions"
+                    },
+                    "registered_till": {
+                        "code": "demo.purina.sol.1",
+                        "name": "demo.purina.sol.1"
+                    },
+
+
+"user_groups2":[
+],
+
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+
+                    "trackers": "",
+                    
+                    
+                    
+                    "current_nps_status":null,
+                    "custom_fields": {
+                        "field": [
+
+                     ]
+                    },
+                     
+                    "extended_fields": {
+                        "field": [
+
+                     ]
+                    },
+                   
+
+                            
+                        "transactions": {
+                        "transaction": [
+
+                            ]
+                    },
+                    
+                    
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "250648246",
+                                "series_id": "14870",
+                                "code": "1006",
+                                "description": "dog_clothes",
+                                "created_date": "2022-11-04 11:58:23",
+                                "valid_till": "2023-01-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            },                             {
+                                "id": "250646594",
+                                "series_id": "17379",
+                                "code": "673691",
+                                "description": "friskies_cat_treat_pouch",
+                                "created_date": "2022-11-04 10:47:24",
+                                "valid_till": "2023-01-15 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem":"false"
+                            }
+                            ]
+                    },
+                    
+                    
+                    "notes": [],
+                    
+                    
+                    
+
+
+
+
+                                        
+                    
+
+
+
+                    "points_summaries": {
+                        "points_summary": [
+
+                        ]
+                    },
+
+                
+                
+                
+                
+                "item_status": {
+                        "success":"true",
+                        "code":"1000",
+                        "message":"Customer successfully retrieved",
+                        "warnings": {
+
+                            "warning": []
+                        }
+                    }}
+           ]
+        }
+    }
+}
+ 
+2022-11-04 13:30:57.7634 INFO CRM request ID: e34423e8909b9aed8923886c5e791424 
